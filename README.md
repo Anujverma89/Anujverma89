@@ -1,9 +1,9 @@
 
 # Hi there, I'm Anuj 👋
 
-- 📚 I'm a Full Stack Developer born in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> Poland, but have lived most of my life in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197567.png" width="13"/> Ireland
-- 🌱 I’m currently working on my Go and Kubernetes skills
-- ⚡ Fun fact: I love to play the piano
+- 📚 I'm a Full Stack Developer.
+- 🌱 I’m currently working on my C++, Python and ML skills.
+- ⚡ Fun fact: Coding is my hobby and im a hobbiest programmer.
 
 ### Things I code with
 
@@ -21,8 +21,7 @@
 ### Where to find me
 
 <div>
-  <a href="https://github.com/piotrpdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/piotrpdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/piotrpdev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@piotrpdev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://github.com/Anujverma89" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://twitter.com/imr_optimist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wise-anuj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
