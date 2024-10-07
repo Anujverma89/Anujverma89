@@ -7,10 +7,7 @@
 
 ### Things I code with
 
-| <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0dc5c?style=flat-square&logo=javascript&logoColor=white" /> 
-| <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" /> 
-| <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
-| <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> 
+|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0dc5c?style=flat-square&logo=javascript&logoColor=white" /> | <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" /> | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />|
 |-------|-----|-----|----
 
 |<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> 
