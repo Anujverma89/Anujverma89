@@ -2,7 +2,7 @@
 # Hi there, I'm Anuj 👋
 
 - 📚 I'm a Full Stack & AI Developer.
-- ⚡ Fun fact: Coding is not means of my survival. It is what I love to do.
+- ⚡ Fun fact: Coding is not a means of survival for me. It is what I love to do.
 
 ### Things I code with
 
