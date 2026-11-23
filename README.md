@@ -1,9 +1,8 @@
 
 # Hi there, I'm Anuj 👋
 
-- 📚 I'm a Full Stack Developer.
-- 🌱 I’m currently working on my C++, Python and ML skills.
-- ⚡ Fun fact: Coding is my hobby and im a hobbiest programmer.
+- 📚 I'm a Full Stack & AI Developer.
+- ⚡ Fun fact: Coding is not means of my survival. It is what I love to do.
 
 ### Things I code with
 
